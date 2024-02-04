@@ -1,0 +1,45 @@
+{
+  "fileSystem": [
+    {
+      "isFolder": true,
+      "name": "public",
+      "children": [
+        {
+          "isFolder": false,
+          "name": "index.html"
+        }
+      ]
+    },
+    {
+      "isFolder": true,
+      "name": "src",
+      "children": [
+        {
+          "isFolder": true,
+          "name": "components",
+          "children": [
+            {
+              "isFolder": true,
+              "name": "tree-view",
+              "children": [
+                {
+                  "isFolder": false,
+                  "name": "tree-view.js"
+                }
+              ]
+            },
+            {
+              "isFolder": true,
+              "name": "empty",
+              "children": []
+            }
+          ]
+        },
+        {
+          "isFolder": false,
+          "name": "App.js"
+        }
+      ]
+    }
+  ]
+}
